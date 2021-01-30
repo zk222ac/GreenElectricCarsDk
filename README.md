@@ -1,7 +1,7 @@
 # GreenElectricCarsDk
 Green Environmental Project 
 # Motivational Factor: 
-The main motive of this project to convince customer to choose or prefer en environmental friendly cars. This is simple ASP.NET web Application. I have chosen **ASP.NET MVC Core 5** technology for this application development. I have also developed or added E-commerce functionality. This application is also for small audience who would like to learn web application development in Razor web application pages. I have followed the complete MVC design pattern data architectural design which is really important for clean application design. 
+The main motive of this project to convince customer to choose or prefer en environmental friendly cars. This is simple ASP.NET web Application. I have chosen **ASP.NET MVC Core 5** technology for this application development. I have also developed or added E-commerce functionality. This application is also for small audience who would like to learn web application development in Razor web application pages. I have followed the complete MVC design pattern data architectural design guidelines which is really important for clean application development. 
 
 # Technologies:
 - ASP.NET MVC Core 5 
