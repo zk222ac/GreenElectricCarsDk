@@ -18,4 +18,7 @@ The main motive of this project to convince customer to choose or prefer en envi
 - ViewModel
 - Carousal (Bootstrap) Design page layout
 
+# How to run this application into your computer 
+- Download code First
+- Type command (update-database) in Package Manager console
 
