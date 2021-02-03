@@ -24,6 +24,14 @@ The main motive of this project to convince customer to choose or prefer en envi
 ![A1](https://user-images.githubusercontent.com/11761314/106339787-eff00380-6297-11eb-8cdf-dd5725d88f51.png)
 
 # Application Main Page
+**Main Page** 
+![car](https://user-images.githubusercontent.com/11761314/106734841-c88c9400-6613-11eb-9568-c1fae0a72b7d.png)
+
+**Search BY Criteria ( All-Cars) Page**
+![car](https://user-images.githubusercontent.com/11761314/106735576-b828e900-6614-11eb-9321-f238048b3bf7.png)
+
+**AddToCart Page**
+![car](https://user-images.githubusercontent.com/11761314/106735865-0b02a080-6615-11eb-876f-cda3bcd9490f.png)
 
 
 
