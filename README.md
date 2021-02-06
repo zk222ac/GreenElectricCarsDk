@@ -21,6 +21,7 @@ The main motive of this project to convince customer to choose or prefer en envi
 # How to run this application into your computer 
 - Download code First
 - Type command (update-database) in Package Manager console
+- After this you need run scripts in SQL Server object explorer  to populate some fake data [a link](https://github.com/user/repo/blob/branch/other_file.md)  
 ![A1](https://user-images.githubusercontent.com/11761314/106339787-eff00380-6297-11eb-8cdf-dd5725d88f51.png)
 
 # Application Main Page
